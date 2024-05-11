@@ -15,7 +15,7 @@ Use len() method to get the number of rows and columns.
 Display the result.
 ## PROGRAM:
 ```python
-#Program To write a python program for reading content from a CSV file.
+#Program for reading content from a CSV file.
 #Developed by : HIRUTHIK SUDHAKAR
 #Reg num : 212223240054
 import pandas as pd
