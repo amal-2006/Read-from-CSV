@@ -1,4 +1,5 @@
-# Read-from-CSV
+# DATE:
+#  EX NO 12 - Read-from-CSV
 
 ## AIM:
 To write a python program for reading content from a CSV file.
