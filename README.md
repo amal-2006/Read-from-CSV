@@ -15,16 +15,21 @@ Use len() method to get the number of rows and columns.
 ### Step 5:
 Display the result.
 ## PROGRAM:
-```python
+```
+
 #Program for reading content from a CSV file.
-#Developed by : HIRUTHIK SUDHAKAR
-#Reg num : 212223240054
+#Developed by : AMALJOSH MAADHAV J
+#Reg num : 212223230012
+
+
 import pandas as pd
 df = pd.read_csv("C:\Users\admin\Downloads\nba.csv")
 print(df.head(10))
 print(df.tail())
 print("Number of rows:",len(df.axes[0]))
 print("Number of columns:",len(df.axes[1]))
+
+
 ```
 ## OUTPUT:
 ![alt text](image.png)
